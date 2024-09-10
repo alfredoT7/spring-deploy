@@ -1,0 +1,1 @@
+Se puede desplegar simplemente usando el archivo .jar del paquete target
